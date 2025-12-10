@@ -1,24 +1,28 @@
-import { DarkTheme, DefaultTheme, ThemeProvider } from '@react-navigation/native';
-import { Stack } from 'expo-router';
-import { StatusBar } from 'expo-status-bar';
-import 'react-native-reanimated';
+import {Stack } from "expo-router";
+import { ClerkProvider } from '@clerk/clerk-expo'
+import { tokenCache } from '@clerk/clerk-expo/token-cache'
+import React from "react";
+import * as WebBrowser from "expo-web-browser";
+WebBrowser.maybeCompleteAuthSession();
 
-import { useColorScheme } from '@/hooks/use-color-scheme';
+// Read the publishable key from runtime env (fallback to empty string)
+const EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY = 'pk_test_cmVsYXRpdmUtYm94ZXItNDkuY2xlcmsuYWNjb3VudHMuZGV2JA';
 
-export const unstable_settings = {
-  anchor: '(tabs)',
-};
 
 export default function RootLayout() {
-  const colorScheme = useColorScheme();
+
 
   return (
-    <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
-      <Stack>
-        <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-        <Stack.Screen name="modal" options={{ presentation: 'modal', title: 'Modal' }} />
-      </Stack>
-      <StatusBar style="auto" />
-    </ThemeProvider>
-  );
+
+    <ClerkProvider
+     publishableKey={EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY}
+      tokenCache={tokenCache}>
+        
+      
+      <Stack screenOptions={{headerShown:false, statusBarStyle:'dark',statusBarAnimation:'none'}} />
+      {/* <slot /> */}
+    </ClerkProvider>
+
+  )
 }
+
