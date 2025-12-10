@@ -1,50 +1,102 @@
-# Welcome to your Expo app 👋
+<div align="center">
+  
+# 🤖 Pocket AI Agent  
+### Create Your Own Smart AI Agents — Instantly!
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Pocket AI Agent is a powerful and beautifully designed mobile app built with **React Native + Expo**, allowing users to **create their own AI agents**, chat with them, explore featured agents, view chat histories, and more.
 
-## Get started
+</div>
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🌟 Features
 
-2. Start the app
+### 🔥 Create Your Own AI Agent  
+- Add custom name, personality, prompt, and behavior.  
+- Build your own personal assistant tailored to your needs.  
 
-   ```bash
-   npx expo start
-   ```
+### 🧠 AI Assistance (Voice + Text)  
+- Tap-to-talk microphone interaction.  
+- Smooth UI with gradient backgrounds and animated components.
 
-In the output, you'll find options to open the app in a
+### 📜 Chat History  
+- View past interactions with agents.  
+- Pull-to-refresh support.  
+- Clean empty state UI when no chats exist.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### 🌎 Explore Agents  
+- Browse featured AI agents (Writing, Image Generator, Translations, Productivity Coach, etc.)  
+- Quick access to your own created agents.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 👤 Profile Page  
+- User info from Clerk Authentication.  
+- Options for Create Agent, Explore, History, Logout.
 
-## Get a fresh project
+### 🔐 Authentication  
+- Sign in with Google via Clerk.  
+- Secure and smooth onboarding flow.
 
-When you're ready, run:
+### 🎨 Beautiful UI  
+Elegant gradients, modern icons, smooth navigation — all screens visually optimized:
+- Onboarding  
+- Login  
+- Dashboard  
+- Explore  
+- Voice Assistant  
+- Profile  
+- History
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 📸 **App Screenshots**
 
-## Learn more
+### 🟣 Profile  
+![WhatsApp Image 2025-12-11 at 04 47 21_282369b5](https://github.com/user-attachments/assets/a45ad5b1-f70f-452e-a04c-a61b1fb2def9)
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### 📜 History  
+![WhatsApp Image 2025-12-11 at 04 47 21_e6552d3b](https://github.com/user-attachments/assets/e273222a-ba33-45a4-8a7e-a23e120fe3a1)
 
-## Join the community
 
-Join our community of developers creating universal apps.
+### 🎤 AI Voice Assistant  
+![WhatsApp Image 2025-12-11 at 04 47 22_464c5a8c](https://github.com/user-attachments/assets/dbcac42c-b030-4491-8e62-af0e3c6eabd7)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+### 🌍 Explore Agents  
+![WhatsApp Image 2025-12-11 at 04 47 22_25b3591d](https://github.com/user-attachments/assets/e07c0725-05fb-481b-919f-e5606611436e)
+
+
+### 🧩 Featured Agent Cards  
+![WhatsApp Image 2025-12-11 at 04 47 22_d28948fe](https://github.com/user-attachments/assets/7bd50048-9105-423c-aa93-a55a44d20fff)
+
+
+### 🔐 Login  
+![WhatsApp Image 2025-12-11 at 04 47 23_563d8985](https://github.com/user-attachments/assets/f2dae083-0f0e-47ea-b672-0473c8a035a0)
+
+
+### 🚀 Onboarding  
+![WhatsApp Image 2025-12-11 at 04 47 23_f5857eab](https://github.com/user-attachments/assets/35d6e404-0089-4061-af35-b7c8d1d6b8aa)
+
+
+> **Note:** Replace the image paths with your actual `assets/` or `/screenshots` folder structure.
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Frontend**
+- React Native (Expo)
+- Typescript
+- Expo Router
+- Clerk Auth
+- Firebase Firestore
+- Lucide Icons
+- Linear Gradient UI
+
+### **Backend**
+- Firebase Firestore (Real-time database)
+
+---
+
+## 📂 Project Structure
+
