@@ -48,35 +48,31 @@ Elegant gradients, modern icons, smooth navigation — all screens visually opti
 
 ---
 
-## 📸 **App Screenshots**
+## 📸 App Screenshots
 
-### 🟣 Profile  
-![WhatsApp Image 2025-12-11 at 04 47 21_282369b5](https://github.com/user-attachments/assets/a45ad5b1-f70f-452e-a04c-a61b1fb2def9)
+<!-- Row 1 -->
+<h3 align="center">🚀 Onboarding &nbsp;&nbsp; 🔐 Login</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/35d6e404-0089-4061-af35-b7c8d1d6b8aa" width="200" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f2dae083-0f0e-47ea-b672-0473c8a035a0" width="200" />
+</p>
 
+<!-- Row 2 -->
+<h3 align="center">🧩 Featured Agent Cards &nbsp;&nbsp; 🎤 AI Voice Assistant</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7bd50048-9105-423c-aa93-a55a44d20fff" width="200" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/dbcac42c-b030-4491-8e62-af0e3c6eabd7" width="200" />
+</p>
 
-### 📜 History  
-![WhatsApp Image 2025-12-11 at 04 47 21_e6552d3b](https://github.com/user-attachments/assets/e273222a-ba33-45a4-8a7e-a23e120fe3a1)
-
-
-### 🎤 AI Voice Assistant  
-![WhatsApp Image 2025-12-11 at 04 47 22_464c5a8c](https://github.com/user-attachments/assets/dbcac42c-b030-4491-8e62-af0e3c6eabd7)
-
-
-### 🌍 Explore Agents  
-![WhatsApp Image 2025-12-11 at 04 47 22_25b3591d](https://github.com/user-attachments/assets/e07c0725-05fb-481b-919f-e5606611436e)
-
-
-### 🧩 Featured Agent Cards  
-![WhatsApp Image 2025-12-11 at 04 47 22_d28948fe](https://github.com/user-attachments/assets/7bd50048-9105-423c-aa93-a55a44d20fff)
-
-
-### 🔐 Login  
-![WhatsApp Image 2025-12-11 at 04 47 23_563d8985](https://github.com/user-attachments/assets/f2dae083-0f0e-47ea-b672-0473c8a035a0)
-
-
-### 🚀 Onboarding  
-![WhatsApp Image 2025-12-11 at 04 47 23_f5857eab](https://github.com/user-attachments/assets/35d6e404-0089-4061-af35-b7c8d1d6b8aa)
-
+<!-- Row 3 -->
+<h3 align="center">🟣 Profile &nbsp;&nbsp; 📜 History</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a45ad5b1-f70f-452e-a04c-a61b1fb2def9" width="200" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/e273222a-ba33-45a4-8a7e-a23e120fe3a1" width="200" />
+</p>
 
 > **Note:** Replace the image paths with your actual `assets/` or `/screenshots` folder structure.
 
