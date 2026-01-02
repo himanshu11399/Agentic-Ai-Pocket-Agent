@@ -56,13 +56,13 @@ Elegant gradients, modern icons, smooth navigation — all screens visually opti
   <img src="https://github.com/user-attachments/assets/35d6e404-0089-4061-af35-b7c8d1d6b8aa" width="200" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/f2dae083-0f0e-47ea-b672-0473c8a035a0" width="200" />
+  <img src="https://github.com/user-attachments/assets/7bd50048-9105-423c-aa93-a55a44d20fff" width="200" />
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- Row 2 -->
 <h3 align="center">🧩 Featured Agent Cards &nbsp;&nbsp; 🎤 AI Voice Assistant</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7bd50048-9105-423c-aa93-a55a44d20fff" width="200" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/dbcac42c-b030-4491-8e62-af0e3c6eabd7" width="200" />
 </p>
 
