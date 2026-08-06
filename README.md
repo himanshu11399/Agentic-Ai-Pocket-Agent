@@ -7,6 +7,9 @@ Pocket AI Agent is a powerful and beautifully designed mobile app built with **R
 
 </div>
 
+<img width="1229" height="809" alt="image" src="https://github.com/user-attachments/assets/74180ae8-2f77-4828-9332-dbc8c1aad1d2" />
+
+
 ---
 
 ## 🌟 Features
@@ -53,25 +56,26 @@ Elegant gradients, modern icons, smooth navigation — all screens visually opti
 <!-- Row 1 -->
 <h3 align="center">🚀 Onboarding &nbsp;&nbsp; 🔐 Login</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/35d6e404-0089-4061-af35-b7c8d1d6b8aa" width="200" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/f2dae083-0f0e-47ea-b672-0473c8a035a0" width="200" />
-  <img src="https://github.com/user-attachments/assets/7bd50048-9105-423c-aa93-a55a44d20fff" width="200" />
+  <img width="200" height="450" alt="WhatsApp Image 2026-08-06 at 11 17 50 AM (1)" src="https://github.com/user-attachments/assets/41529ccf-9abd-49b7-846d-2bdc8ad60efb" width="200" />
+<img width="200" height="450" alt="WhatsApp Image 2026-08-06 at 11 17 48 AM (1)" src="https://github.com/user-attachments/assets/9ce6c951-e754-4df7-8c29-c6946b373fc9" />
+<img width="200" height="450" alt="WhatsApp Image 2026-08-06 at 11 17 49 AM" src="https://github.com/user-attachments/assets/184b3cde-166c-4fa0-919c-e192285e8b6e" />
+
   &nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- Row 2 -->
 <h3 align="center">🧩 Featured Agent Cards &nbsp;&nbsp; 🎤 AI Voice Assistant</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dbcac42c-b030-4491-8e62-af0e3c6eabd7" width="200" />
+ <img width="200" height="450" alt="WhatsApp Image 2026-08-06 at 11 17 49 AM (1)" src="https://github.com/user-attachments/assets/99f7fa32-ff33-4b7a-a837-d49e7a92ca7a" />
+
 </p>
 
 <!-- Row 3 -->
 <h3 align="center">🟣 Profile &nbsp;&nbsp; 📜 History</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a45ad5b1-f70f-452e-a04c-a61b1fb2def9" width="200" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/e273222a-ba33-45a4-8a7e-a23e120fe3a1" width="200" />
+ <img width="200" height="450" alt="WhatsApp Image 2026-08-06 at 11 17 48 AM" src="https://github.com/user-attachments/assets/29631b83-af93-4cda-9fa1-947831ee02c1" />
+  <img width="200" height="450" alt="WhatsApp Image 2026-08-06 at 11 17 47 AM" src="https://github.com/user-attachments/assets/482aa555-3994-446e-85d7-0b3ced5888e2" />
+
 </p>
 
 > **Note:** Replace the image paths with your actual `assets/` or `/screenshots` folder structure.
