@@ -7,7 +7,8 @@ Pocket AI Agent is a powerful and beautifully designed mobile app built with **R
 
 </div>
 
-<img width="1229" height="809" alt="image" src="https://github.com/user-attachments/assets/74180ae8-2f77-4828-9332-dbc8c1aad1d2" />
+<img width="1237" height="828" alt="image" src="https://github.com/user-attachments/assets/0e114433-e5fd-4946-92ec-237b5b9b186c" />
+
 
 
 ---
